@@ -17,7 +17,7 @@ public static void main(String [] args){
 	System.out.printf("%1$(5d" , y);
 	
 	float a = 3.45f;
-	System.out.printf("%6.2f" , a);
+	System.out.printf("Hello World:" + "%6.2f" , a);
 	
 	float ab = 3.45646f;
 	System.out.printf("%.3f" , ab);
